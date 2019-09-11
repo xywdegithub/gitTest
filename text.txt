@@ -2,7 +2,7 @@ test git
 add test
 change text  fix again
 add dev branch
-change to master
+change to master  fix issue
 
 add feature-0.1 branch
 
