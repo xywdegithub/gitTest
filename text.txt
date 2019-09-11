@@ -1,6 +1,6 @@
 test git
 add test
-change text
+change text  fix again
 add dev branch
 change to master  fix issue
 
