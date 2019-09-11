@@ -2,6 +2,6 @@ test git
 add test
 change text
 add dev branch
-change to master
+change to master  fix issue
 
 add feature-0.1 branch
